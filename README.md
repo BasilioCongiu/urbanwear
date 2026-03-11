@@ -4,7 +4,6 @@ Landing page dinamica progettata per un brand di abbigliamento. L'obiettivo prin
 
 Tecnologie Utilizzate
 HTML5 & CSS3: Struttura semantica e layout responsive.
-- JavaScript (ES6+): Logica per le interazioni principali dell'interfaccia.
 - Mobile First Approach: Design ottimizzato per garantire una navigazione fluida su smartphone e desktop.
 
-Link to website https://basobax.github.io/urbanwear/
+Link to website https://basiliocongiu.github.io/urbanwear/
